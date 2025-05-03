@@ -35,3 +35,12 @@ This program uses **recursive backtracking** to:
 ### 🧾 Compile (using g++)
 ```bash
 g++ sudoku_solver.cpp -o sudoku_solver
+```
+
+▶️ Run
+```bash
+./sudoku_solver
+```
+
+📌 Example
+
