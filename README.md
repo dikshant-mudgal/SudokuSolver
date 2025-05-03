@@ -51,3 +51,10 @@ g++ sudoku_solver.cpp -o sudoku_solver
 
 ![OutputPuzzle](https://github.com/dikshant-mudgal/SudokuSolver/blob/373d82512f0c2c6fa1ba3ad3ddf2d1a467c88547/Output.png)
 
+## License
+
+This project is licensed under the terms of the [MIT License](LICENSE).
+
+In short, you are free to use, modify, and distribute the code, even for commercial purposes, as long as you include the original copyright notice.  See the full [LICENSE](LICENSE) for details.
+
+
