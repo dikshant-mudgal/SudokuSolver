@@ -42,5 +42,11 @@ g++ sudoku_solver.cpp -o sudoku_solver
 ./sudoku_solver
 ```
 
-📌 Example
+📌 Example(Screenshots)
+
+**Input**
+![InputPuzzle](https://github.com/dikshant-mudgal/SudokuSolver/blob/a8f575f2991cda3a01f5bec8d3f3fdfc1de4f179/Input.png)
+
+**Output**
+![OutputPuzzle]()
 
